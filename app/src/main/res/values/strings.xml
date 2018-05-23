@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorTools</string>
+    <string name="action_settings">Settings</string>
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="preference_text_primary_color_background">Background color</string>
+    <string name="preference_text_secondary_color_background">Background color of view displaying speed</string>
+</resources>
